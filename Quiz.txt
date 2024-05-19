@@ -82,3 +82,19 @@ c.Menghasilkan sejumlah 800 bilangan acak
 d.Menghasilkan sejumlah 900 bilangan acak
 Jawaban (a, c)
 
+Dataset apa yang diperlukan untuk menghasilkan model C5.0?
+Dataset apa yang diperlukan untuk menghasilkan model C5.0?
+a.Training set untuk input variables
+b.Testing set untuk input variables
+c.Training set untuk class variable
+d.Testing set untuk class variables
+Jawaban (a, c)
+
+Apa syarat class variable untuk fungsi C5.0?
+Apa syarat class variable untuk dapat digunakan oleh fungsi C5.0?
+a.Berupa tipe data character
+b.Berupa factor
+c.Berupa vector
+d.Berupa angka
+Jawaban (b)
+
