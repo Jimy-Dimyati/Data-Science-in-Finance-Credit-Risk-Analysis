@@ -187,3 +187,11 @@ c.259 adalah jumlah data untuk seluruh klasifikasi risk_rating yang ada pada nod
 d.259 adalah jumlah data untuk klasifikasi risk_rating = 2 (error)
 Jawaban (b,c)
 
+Input apa yang diperlukan oleh fungsi predict?
+Input-input apa saja yang diperlukan oleh fungsi predict?
+a.class variable
+b.model
+c.data frame dengan input variables
+d.data frame dengan seluruh data
+Jawaban (b, c)
+
