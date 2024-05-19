@@ -64,3 +64,21 @@ c.satu
 d.maksimal satu
 Jawaban (c)
 
+Apa fungsi dari perintah set.seed?
+Apa kegunaan dari set.seed(100)?
+a.Melakukan pengacakan nilai sehingga training set dan testing set dapat angka yang mewakili situasi riil
+b.Melakukan seeding sehingga nilai random selalu sama di setiap versi R yang digunakan
+c.Menghasilkan nilai 0 sampai dengan 100
+d.Tidak ada gunanya
+Jawaban (b)
+
+Apa fungsi dari perintah sample?
+Pada code sebelumnya, kita melihat baris perintah berikut...
+indeks_training_set <- sample(900, 800)
+Apa saja pernyataan yang benar dari perintah sample(900, 800)?
+a.Menghasilkan bilangan acak 1 sampai dengan 900, dan tidak berulang
+b.Menghasilkan bilangan acak 1 sampai dengan 800, dan tidak berulang
+c.Menghasilkan sejumlah 800 bilangan acak
+d.Menghasilkan sejumlah 900 bilangan acak
+Jawaban (a, c)
+
