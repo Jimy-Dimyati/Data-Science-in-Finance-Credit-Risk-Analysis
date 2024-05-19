@@ -203,3 +203,11 @@ c.Sudah keharusan untuk digabung
 d.Semua salah
 Jawaban (a)
 
+Arti operator !=
+Apa arti operator != ketika membandingkan risk_rating dengan hasil_prediksi?    
+a.Filter hasil yang tidak sama
+b.Filter hasil yang sama
+c.Filter hasil yang kosong
+d.Semuanya tidak benar
+Jawaban (a)
+
