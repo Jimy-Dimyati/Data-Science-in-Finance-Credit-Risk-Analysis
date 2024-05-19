@@ -48,3 +48,19 @@ c.3
 d.4
 Jawaban (d)
 
+Package R apa yang kita gunakan untuk decision tree?
+Package R apa yang akan kita gunakan untuk menghasilkan model decision tree sepanjang course ini?
+a.C50
+b.openxlsx
+c.ggplot2
+d.decisiontree
+Jawaban (a)
+
+Berapa banyak class variable?
+Ada berapa banyak class variable yang diperlukan untuk membentuk model decision tree? 
+a.nol atau lebih variable
+b.satu atau lebih variable
+c.satu
+d.maksimal satu
+Jawaban (c)
+
