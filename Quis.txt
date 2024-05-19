@@ -1,0 +1,50 @@
+Mana definisi credit score yang benar?
+a.Nilai keuntungan akibat pemberian pinjaman kepada individu atau organisasi
+b.Nilai pengembalian bunga pinjaman setahun kepada individu atau organisasi
+c.Nilai kemampuan seorang individu atau organisasi untuk melunasi pembayarkan berdasarkan rekam jejak historis
+d.Nilai wasiat dari seorang individu atau organisasi dari asuransi pinjaman bank
+e.Semuanya benar
+Jawaban (c)
+
+Rekam jejak historis apa yang digunakan?
+Dari contoh kita sejuah ini, rekam jejak historis apa yang digunakan sebagai basis untuk perhitungan credit score dan risk rating?
+a.Umur individu atau organisasi
+b.Keterlambatan pembayaran pinjaman
+c.Keterlambatan pengajuan pinjaman
+d.Keterlambatan analisa
+e.Semuanya salah
+Jawaban (b)
+
+Apa yang dilakukan oleh analyst?
+Apa yang dilakukan oleh analyst terhadap contoh data dari skenario yang telah dijelaskan?
+a.Mencari pola antara credit score dengan variable lain
+b.Menyisipkan kolom baru untuk pengayaan informasi
+c.Membuat model pengambilan keputusan untuk aplikasi pinjaman baru
+d.Merubah kolom keterlambatan
+e.Menambahkan kolom keterlambatan
+Jawaban (a, c)
+
+Mana komponen yang disebut dengan Root?
+Dari gambar berikut, mana angka bulatan yang menunjukkkan Root Node?
+a.1
+b.2
+c.3
+d.4
+Jawaban (c)
+
+Mana komponen yang disebut dengan Split?
+Dari gambar berikut, mana angka bulatan yang menunjukkkan Split?
+a.1
+b.2
+c.3
+d.4
+Jawaban (b)
+
+Mana komponen yang disebut dengan Leaf?
+Dari gambar berikut, mana angka bulatan yang menunjukkkan Leaf Node?
+a.1
+b.2
+c.3
+d.4
+Jawaban (d)
+
