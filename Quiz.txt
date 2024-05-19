@@ -98,3 +98,76 @@ c.Berupa vector
 d.Berupa angka
 Jawaban (b)
 
+Berapa banyak leaf nodes yang dapat Anda dapatkan dari output berikut?
+
+jumlah_tanggungan > 4:
+:...durasi_pinjaman_bulan <= 24: 4 (98/25)
+:   durasi_pinjaman_bulan > 24: 5 (129/49)
+jumlah_tanggungan <= 4:
+:...jumlah_tanggungan > 2: 3 (219/17)
+    jumlah_tanggungan <= 2:
+    :...durasi_pinjaman_bulan <= 36: 1 (259/80)
+        durasi_pinjaman_bulan > 36:
+        :...jumlah_tanggungan <= 0: 2 (37/7)
+            jumlah_tanggungan > 0: 3 (58/2)
+a.4
+b.5
+c.6
+d.7
+Jawaban (c)
+
+Arti dari statistik di Leaf Node
+Apa arti dari statistik yang terlihat pada leaf node yang diberi warna biru berikut?
+
+jumlah_tanggungan > 4:
+:...durasi_pinjaman_bulan <= 24: 4 (98/25)
+:   durasi_pinjaman_bulan > 24: 5 (129/49)
+jumlah_tanggungan <= 4:
+:...jumlah_tanggungan > 2: 3 (219/17)
+    jumlah_tanggungan <= 2:
+    :...durasi_pinjaman_bulan <= 36: 1 (259/80)
+        durasi_pinjaman_bulan > 36:
+        :...jumlah_tanggungan <= 0: 2 (37/7)
+            jumlah_tanggungan > 0: 3 (58/2)
+
+a.Data yang diklasifikasikan berjumlah 80
+b.Data yang diklasifikasikan berjumlah 259
+c.Data yang salah klasifikasi berjumlah 80
+d.Data yang salah klasifikasi berjumlah 259
+Jawaban (b,c)
+
+Menganalisa Confusion Matrix (1)
+Dari confusion matrix berikut, apa maksud angka yang berwarna biru?
+
+	   (a)   (b)   (c)   (d)   (e)    <-classified as
+	  ----  ----  ----  ----  ----
+	   179     1     5     5     6    (a): class 1
+	    80    30    14     3    12    (b): class 2
+	           4   258                (c): class 3
+	           2          73    31    (d): class 4
+	                      17    80    (e): class 5
+
+
+a.Terdapat 3 data yang diklasifikasikan dengan risk rating 3 tapi dengan aktual klasifikasi 3
+b.Terdapat 3 data yang diklasifikasikan dengan risk rating 4 tapi dengan aktual klasifikasi 2
+c.Terdapat 3 data yang diklasifikasikan dengan risk rating 3 tapi dengan aktual klasifikasi 3
+d.Terdapat 3 data yang diklasifikasikan dengan risk rating 2 tapi dengan aktual klasifikasi 4
+Jawaban (b)
+
+Menganalisa Confusion Matrix (2)
+Dari angka-angka yang diwarnai biru berikut, mana saja yang merupakan error atau salah klasifikasi?
+
+	   (a)   (b)   (c)   (d)   (e)    <-classified as
+	  ----  ----  ----  ----  ----
+	   179     1     5     5     6    (a): class 1
+	    80    30    14     3    12    (b): class 2
+	           4   258                (c): class 3
+	           2          73    31    (d): class 4
+	                      17    80    (e): class 5
+
+a.80
+b.5
+c.258
+d.2
+Jawaban (b, c)
+
