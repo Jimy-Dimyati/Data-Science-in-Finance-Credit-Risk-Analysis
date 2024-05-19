@@ -171,3 +171,19 @@ c.258
 d.2
 Jawaban (b, c)
 
+Mana kesimpulan yang benar dari plot?
+Dari plot di bawah ini, mana-mana saja kesimpulan yang benar?
+a.Pada node nomor 4, klasifikasinya adalah risk_rating = 2
+b.Pada node nomor 4, klasifikasinya adalah risk_rating = 1
+c.Jalur ke node 3 adalah durasi_pinjaman <= 36
+d.Jalur ke node 3 adalah jumlah_tanggungan <= 2
+Jawaban (b, c)
+
+Apa arti dari n = 259?
+Mana saja pengertian yang benar dari informasi n=259 pada node 4?
+a.259 adalah jumlah data untuk klasifikasi risk_rating = 1
+b.259 adalah jumlah data untuk klasifikasi risk_rating = 1 dan risk_rating = 2
+c.259 adalah jumlah data untuk seluruh klasifikasi risk_rating yang ada pada node 4
+d.259 adalah jumlah data untuk klasifikasi risk_rating = 2 (error)
+Jawaban (b,c)
+
